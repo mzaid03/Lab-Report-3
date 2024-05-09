@@ -9,6 +9,9 @@ Associated code
 
 2. An input that doesn't induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown).
 
+![image](labreport3.4)
+
+
 3. The symptom, as the output of running the two tests above (provide it as a screenshot -- one test should pass, one test should fail).
 
 ![Image](labreport3.3.png)
