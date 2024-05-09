@@ -38,11 +38,17 @@ Part 2 - Researching Commands
 
 ![Image](labreport3.12.png)
 
+This option enables you to define the kind of file you're looking for, such as standard files, directories, symbolic links, and so on.
+Source: ChatGPT
+
 2.
 
 ![Image](labreport3.13.png)
 
 ![Image](labreport3.14.png)
+
+This command looks for files within the ./technical directory that are greater than 1MB and less than 100KB in size. It's beneficial when you're trying to manage disk space or locate files within a specific size range.
+Source: Chatgpt
 
 3.
 
@@ -50,8 +56,14 @@ Part 2 - Researching Commands
 
 ![Image](labreport3.16.png)
 
+This command looks for files within the ./technical directory that have been altered in the last 7 days or more than 30 days ago. It's beneficial for identifying files that have been recently updated or files that haven't been touched for a while.
+Source: Chatgpt
+
 4.
 
 ![Image](labreport3.17.png)
 
 ![Image](labreport3.18.png)
+
+This command will search for the string "todo" in all files in the technical directory and its subdirectories. It's useful when you want to find all occurrences of a pattern in a directory tree. Next will search for the string "fixme" recursively in the technical directory. It's useful for finding all markers indicating code that needs fixing.
+Source: Chatgpt
