@@ -20,10 +20,11 @@ Associated code
 
 Before fix
 
-![image](labreport3.5.png)
+![image](labreport3.2.png)
 
 After fix
 
-![image](labreport3.6.png)
+![Image](labreport3.5.png)
 
 5. Briefly describe (2-3 sentences) why the fix addresses the issue.
+The issue occured due to an incorrect loop condition. The condition `start <= end` was causing an extra iteration, which is not necessary for reversing the array. The corrected version uses `start < end` as the condition, ensuring the loop stops when the start index crosses the end index. This adjustment successfully reverses the array elements.
