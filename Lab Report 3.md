@@ -49,6 +49,7 @@ Part 2 - Researching Commands
 ![Image](labreport3.15.png)
 
 ![Image](labreport3.16.png)
+
 4.
 
 ![Image](labreport3.17.png)
